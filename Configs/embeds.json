@@ -1,0 +1,17 @@
+{
+  "name": "Name you want in author section of embeds",
+  "image": "https://i.imgur.com/yourgifuwant.gif",
+  "iconURL": "https://i.imgur.com/yourimageuwant.png",
+  "URL": "the url u want for ur embed",
+  "guildName": "Your server's name",
+
+  "red": "#FF0000",
+  "black": "#000000",
+  "white": "#FFFFFF",
+  "yellow": "#FFFF00",
+  "green": "#00FF00",
+  "blue": "#0000FF",
+  "maroon": "#800000",
+  "cyan": "#00FFFF",
+  "pink": "#FF00FF"
+}
