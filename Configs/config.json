@@ -1,0 +1,5 @@
+{
+  "token": "Your token",
+  "mongooseConnectionString": "Completly optional, will be covered in video",
+  "owners": ["Your ID"]
+}
